@@ -2,7 +2,8 @@
 
 _Ce l’ho, mi manca!_
 
-Trasformare il problema/situazione in istruzioni semplici
+Che emozione, ogni volta che apro un pacchetto nuovo... chissà se troverò quella figurina così rara!
+Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’album: attacco subito quelle nuove, mentre le doppie le metto in un mazzetto a parte. Ormai ne sto accumulando diverse, spero di riuscire a combinare diversi scambi sabato con i miei amici!
 
 ## TRACCIA
 
@@ -16,12 +17,12 @@ In caso di doppioni organizza la sessione di scambio
 
 - Prendo il "pacchetto"
 - Prendo "l'album"
-- prendo il "mazzo dei doppioni"
+- Prendo il "mazzo dei doppioni"
 - Apro il pachetto
 - Estraggo le figurine dal pacchetto
 - **PER OGNI** figurina nel pacchetto:
   - **SE** è presente nell'album
-    - la dispongo nel "mazzo dei doppioni"
+    - La dispongo nel "mazzo dei doppioni"
   - **ALTRIMENTI** - l'aggiugno nell'album
     **_BONUS_**
 - **SE** è sabato **E** "il mazzo di scambio" **NON** è vuoto
@@ -40,12 +41,12 @@ In caso di doppioni organizza la sessione di scambio
 
 - Prendo il "pacchetto"
 - Prendo "l'album"
-- prendo il "mazzo dei doppioni"
+- Prendo il "mazzo dei doppioni"
 - Apro il pachetto
 - Estraggo le figurine dal pacchetto
 - **PER OGNI** figurina nel pacchetto:
   - **SE** è presente nell'album
-    - la dispongo nel "mazzo dei doppioni"
+    - La dispongo nel "mazzo dei doppioni"
   - **ALTRIMENTI** - l'aggiugno nell'album
     **_BONUS_**
 - **FINCHE'** **NON** è sabato **E** "il mazzo di scambio" **NON** è vuoto
